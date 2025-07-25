@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-class Program
+namespace Ass1act6
+    
+internal class Program
 {
-    static void Main()
+    static void Main(string[] agrs)
     {
         string input;
         string letter;
